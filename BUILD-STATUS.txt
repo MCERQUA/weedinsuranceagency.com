@@ -1,0 +1,17 @@
+SITE: weedinsuranceagency.com
+STATUS: GREEN
+BUILD_ID: tbCKVP7acdVAGKxG0Y7g0
+DATE: 2026-06-25
+WORKER: josh-desk-4@mesh
+
+DELIVERABLES:
+- scaffold: PASS (zero framing refs)
+- site.ts: 6 services (dispensary, cultivator, processor, hemp/CBD, product liability, crime/theft)
+- blog posts: 4 (flagship: cannabis-insurance-requirements-by-state ~2700w, + 3 more 1800-2000w each)
+- images: 9 HF FLUX images >100KB
+- llms.txt: DONE
+- __forms.html: cannabis-specific fields
+- JSON-LD: homepage (LocalBusiness+InsuranceAgency+FAQPage), services/[slug] (Service+FAQPage+Breadcrumb), blog/[slug] (BlogPosting+Breadcrumb)
+- ServicesGrid.tsx: icons fixed (Store, Leaf, FlaskConical, Sprout, Lock)
+- scaffold copy doubled-phrase fix: 11 files cleaned
+- next build: 23/23 pages static (GREEN)
