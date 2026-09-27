@@ -2,8 +2,8 @@ import { ClipboardList, Search, CheckCircle } from "lucide-react";
 import { FadeIn } from "@/components/animations/FadeIn";
 
 const STEPS = [
-  { icon: ClipboardList, step: "01", title: "Tell Us About Your Operation", desc: "Answer a few quick questions about your crew size, revenue, states worked, and coverage history." },
-  { icon: Search, step: "02", title: "Review Your Quote", desc: "We shop specialty markets and present competitive options — GL, WC, tools, auto, and bundle discounts." },
+  { icon: ClipboardList, step: "01", title: "Tell Us About Your Operation", desc: "Answer a few quick questions about your operation type, team size, revenue, states, and coverage history." },
+  { icon: Search, step: "02", title: "Review Your Quote", desc: "We shop specialty markets and present competitive options: GL, product liability, property and crop, workers' comp, and bundles." },
   { icon: CheckCircle, step: "03", title: "Get Insured Today", desc: "Bind coverage and receive your certificates same-day. Certificates issued immediately after binding." },
 ];
 
@@ -16,7 +16,7 @@ export function Process() {
             <p className="font-body text-sm font-bold text-ember-orange uppercase tracking-widest mb-3">How It Works</p>
             <h2 className="font-heading text-3xl sm:text-4xl text-bark font-bold mb-4">Get Insured in 3 Simple Steps</h2>
             <p className="font-body text-muted max-w-xl mx-auto">
-              From initial quote to bound coverage — our process is designed for busy contractors who don't have time to waste.
+              From initial quote to bound coverage — our process is designed for busy operators who don't have time to waste.
             </p>
           </div>
         </FadeIn>

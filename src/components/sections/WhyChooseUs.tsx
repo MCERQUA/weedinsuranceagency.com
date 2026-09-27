@@ -3,11 +3,11 @@ import { CheckCircle } from "lucide-react";
 import { FadeIn } from "@/components/animations/FadeIn";
 
 const REASONS = [
-  { title: "Cannabis Business Insurance Industry Specialists", desc: "We understand carpentry class codes, completed operations exposure, and the certificate demands GCs put on cannabis business insurance subs." },
-  { title: "Competitive Rates", desc: "Access to specialty carriers that focus on construction trades — not general business carriers charging inflated rates for cannabis business insurance risk." },
-  { title: "Same-Day Certificates", desc: "Need a certificate for a new GC by tomorrow morning? We process certificates and AI endorsements same-day." },
-  { title: "Licensed in All 50 States", desc: "Whether your crews work in one state or across the country, we can bind coverage where you need it." },
-  { title: "Founded in 2005", desc: "20+ years serving construction contractors. We've seen the market cycles and we know which carriers pay claims." },
+  { title: "Cannabis Business Insurance Specialists", desc: "We work with dispensaries, cultivators, processors and hemp brands, and we know the coverage questions specific to them: product liability, crop and inventory, and the insurance your license and lease require." },
+  { title: "Surplus Market Access", desc: "Most standard carriers decline cannabis. We place coverage with the specialty and surplus-lines carriers that do write it, and compare their options for you." },
+  { title: "Certificates When You Need Them", desc: "Need proof of insurance for a lease, a license application or a vendor agreement? Once coverage is bound we issue certificates and additional-insured endorsements quickly." },
+  { title: "Licensed in All 50 States", desc: "Wherever your operation is licensed to run, we can place coverage there." },
+  { title: "Founded in 2005", desc: "Contractors Choice Agency has placed specialty business insurance for 20+ years. We've seen the market cycles and we know which carriers pay claims." },
   { title: "Claims Advocacy", desc: "When a claim happens, we're in your corner — not hiding behind carrier call centers. Direct advocate support." },
 ];
 
@@ -20,7 +20,7 @@ export function WhyChooseUs() {
             <div className="relative h-[480px] rounded-2xl overflow-hidden shadow-xl">
               <Image
                 src="/images/team-review.jpg"
-                alt="Cannabis Business Insurance contractor structure"
+                alt="Cannabis business insurance consultation"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -36,7 +36,7 @@ export function WhyChooseUs() {
                 Why Cannabis Businesses Choose Us
               </h2>
               <p className="font-body text-muted leading-relaxed mb-8">
-                We specialize in construction contractor insurance. That means we know cannabis business insurance, we know the class codes, and we know what GCs require on their subs.
+                We focus on businesses that standard carriers turn away. That means we know cannabis business insurance: the surplus markets that write it, the coverage your license and lease require, and the gaps a generic policy leaves.
               </p>
             </FadeIn>
 

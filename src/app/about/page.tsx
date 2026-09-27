@@ -9,7 +9,7 @@ import { FadeIn } from "@/components/animations/FadeIn";
 import { SITE, CREDENTIALS } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About Cannabis Business Insurance Insurance",
+  title: "About Weed Insurance Agency",
   description: `${SITE.name} — specialized insurance for cannabis businesses since ${SITE.founded}. Licensed in all 50 states, A.M. Best A+ rated carriers.`,
 };
 
@@ -21,7 +21,7 @@ export default function AboutPage() {
         <section className="bg-forest-green pt-24 pb-16">
           <div className="container-xl">
             <FadeIn>
-              <h1 className="font-heading text-4xl sm:text-5xl text-white font-bold mb-4">About Cannabis Business Insurance Insurance</h1>
+              <h1 className="font-heading text-4xl sm:text-5xl text-white font-bold mb-4">About Weed Insurance Agency</h1>
               <p className="font-body text-white/80 text-lg max-w-2xl">Specialists in cannabis business insurance since 2005.</p>
             </FadeIn>
           </div>
@@ -34,7 +34,7 @@ export default function AboutPage() {
                 <FadeIn>
                   <h2 className="font-heading text-3xl sm:text-4xl text-bark font-bold mb-6">Insurance Built for the Cannabis Business Insurance Trade</h2>
                   <div className="space-y-4 font-body text-muted text-base leading-relaxed">
-                    <p>Cannabis Business Insurance Insurance is a specialty division of Contractors Choice Agency, an insurance agency founded in 2005 and dedicated to serving construction contractors and tradespeople.</p>
+                    <p>Weed Insurance Agency is a specialty division of Contractors Choice Agency, an insurance agency founded in 2005 that places specialty business insurance for operations standard carriers decline.</p>
                     <p>We've specialized in cannabis business insurance long enough to know the nuances that matter: the coverage differences between dispensary types, why product liability is non-negotiable for cannabis retailers, and what state licensing bodies actually require in a certificate beyond the boilerplate.</p>
                     <p>Our approach is straightforward: understand your operation, shop specialty markets that price cannabis business insurance risk fairly, and provide the certificates and service a working cannabis business insurance crew actually needs.</p>
                   </div>

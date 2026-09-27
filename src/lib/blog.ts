@@ -32,7 +32,7 @@ export function getAllPosts(): Post[] {
         date: data.date ?? "",
         category: data.category ?? "Insurance Guide",
         image: data.image ?? "/images/blog-default.jpg",
-        author: data.author ?? "Cannabis Business Insurance Insurance Team",
+        author: data.author ?? "Weed Insurance Agency Team",
         readTime: readingTime(content).text,
         content,
       } as Post;

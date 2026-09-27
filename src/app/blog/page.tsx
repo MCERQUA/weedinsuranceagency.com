@@ -27,7 +27,7 @@ export default function BlogPage() {
         <section className="bg-forest-green pt-24 pb-16">
           <div className="container-xl">
             <FadeIn>
-              <h1 className="font-heading text-4xl sm:text-5xl text-white font-bold mb-4">Cannabis Business Insurance Insurance Blog</h1>
+              <h1 className="font-heading text-4xl sm:text-5xl text-white font-bold mb-4">Cannabis Business Insurance Blog</h1>
               <p className="font-body text-white/80 text-lg max-w-2xl">
                 Expert guides on insurance for cannabis businesses — dispensaries, cultivators, processors, and hemp brands.
               </p>
