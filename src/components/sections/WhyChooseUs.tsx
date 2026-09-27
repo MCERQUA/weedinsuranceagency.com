@@ -19,7 +19,7 @@ export function WhyChooseUs() {
           <FadeIn direction="right">
             <div className="relative h-[480px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/cannabis business insurance-structure.jpg"
+                src="/images/team-review.jpg"
                 alt="Cannabis Business Insurance contractor structure"
                 fill
                 className="object-cover"

@@ -76,7 +76,7 @@ export function Hero() {
 
           <FadeIn delay={0.1} direction="left" className="relative h-[500px] lg:h-[600px] rounded-2xl overflow-hidden shadow-float">
             <Image
-              src="/images/hero-cannabis business insurance.jpg"
+              src="/images/hero-main.jpg"
               alt="Professional cannabis business insurance consultation"
               fill
               className="object-cover"
