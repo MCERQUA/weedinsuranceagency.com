@@ -3,7 +3,7 @@ import type { Config } from "tailwindcss";
 /**
  * WEED INSURANCE AGENCY — Compliance Teal design system (Worker A overflow, CCA batch).
  *
- * Brand direction: deep compliance teal (#1A3A4C), not dispensary green.
+ * Brand direction: deep compliance teal (#522D18), not dispensary green.
  * Cannabis business insurance is a B2B specialty surplus market — trust, credentialing,
  * and compliance signals matter more than cannabis culture aesthetics.
  * Warm amber CTA pops hard against deep teal. Warm off-white canvas standard CCA.
@@ -42,27 +42,27 @@ const config: Config = {
         // surplus market expertise — NOT recreational cannabis culture.
         // Fully distinct from SSV trail green (#1A4B2E) and dairy meadow (#1B5E34).
         brand: {
-          DEFAULT: "#1A3A4C",
-          bright: "#2D6B8A",
-          ink: "#0C1A22",
+          DEFAULT: "#522D18",
+          bright: "#97532C",
+          ink: "#1F170F",
           50:  "#E8F2F6",
-          100: "#C4DDEA",
-          200: "#90BDD5",
-          300: "#5B9BBF",
-          400: "#3A7DA8",
-          500: "#2D6B8A",
-          600: "#22506A",
-          700: "#1A3A4C",
-          800: "#122735",
-          900: "#0C1A22",
+          100: "#EED4C5",
+          200: "#DEAC8F",
+          300: "#CE8155",
+          400: "#B26234",
+          500: "#97532C",
+          600: "#713E21",
+          700: "#522D18",
+          800: "#2F2217",
+          900: "#1F170F",
         },
 
         // ── LEGACY ALIASES → new palette ────────────────────────────────────
         "forest-green": {
-          DEFAULT: "#1A3A4C",
-          dark: "#122735",
+          DEFAULT: "#522D18",
+          dark: "#2F2217",
           50: "#E8F2F6",
-          light: "#2D6B8A",
+          light: "#97532C",
         },
         "ember-orange": {
           DEFAULT: "#E8821A",
@@ -89,7 +89,7 @@ const config: Config = {
       boxShadow: {
         soft:         "0 1px 2px rgba(22,32,28,.04)",
         card:         "0 1px 2px rgba(22,32,28,.04), 0 10px 30px -12px rgba(22,32,28,.12)",
-        "card-hover": "0 4px 8px rgba(22,32,28,.06), 0 24px 48px -16px rgba(26,58,76,.20)",
+        "card-hover": "0 4px 8px rgba(22,32,28,.06), 0 24px 48px -16px rgba(82,45,24,.20)",
         cta:          "0 12px 28px -8px rgba(232,130,26,.45)",
         float:        "0 24px 64px -24px rgba(22,32,28,.30)",
       },
