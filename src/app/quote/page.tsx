@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { CheckCircle, Phone } from "lucide-react";
+import { CheckCircle, Phone, ArrowRight } from "lucide-react";
 import { Navbar } from "@/components/sections/Navbar";
 import { Footer } from "@/components/sections/Footer";
 import { FadeIn } from "@/components/animations/FadeIn";
@@ -188,7 +188,7 @@ export default function QuotePage() {
                           disabled={loading}
                           className="w-full bg-ember-orange text-white py-3.5 rounded-lg font-body font-bold hover:bg-ember-orange-dark transition-colors disabled:opacity-60"
                         >
-                          {loading ? "Submitting..." : "Get My Cannabis Insurance Quote →"}
+                          {loading ? "Submitting..." : <>Get My Cannabis Insurance Quote<ArrowRight className="inline w-4 h-4 ml-1 align-[-2px]" aria-hidden="true" /></>}
                         </button>
                       </form>
                     </div>

@@ -369,7 +369,7 @@ CBD products present genuine product liability exposure that standard admitted c
 
 **USDA Whole Farm Revenue Protection (WFRP):** Available to hemp producers under specific conditions. Covers revenue loss from multiple commodities on the farm; hemp is included as of USDA 2021 updates. Requires extensive financial records and farm history.
 
-**Private market hemp crop insurance:** Supplements USDA programs or provides standalone coverage for hemp producers who don't qualify for WFRP. Stage-based valuation (transplant → vegetative → pre-harvest → harvest). Also covers varieties that are not covered under WFRP or during gaps in USDA program availability.
+**Private market hemp crop insurance:** Supplements USDA programs or provides standalone coverage for hemp producers who don't qualify for WFRP. Stage-based valuation (transplant, vegetative, pre-harvest and harvest). Also covers varieties that are not covered under WFRP or during gaps in USDA program availability.
 
 **The Hot Crop Risk:** This is the most specific hemp production risk with no parallel in standard agriculture. If your hemp crop tests above 0.3% THC at or near harvest, it cannot be sold, transported, or processed — it must be destroyed under state oversight. Some hemp crops go "hot" due to genetics, stress, or environmental factors despite a compliant starting variety. Hot crop coverage pays the value of destroyed above-limit hemp biomass.
 

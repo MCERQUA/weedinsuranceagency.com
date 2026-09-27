@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Phone, Mail, Clock, MapPin, CheckCircle } from "lucide-react";
+import { Phone, Mail, Clock, MapPin, CheckCircle, ArrowRight } from "lucide-react";
 import { Navbar } from "@/components/sections/Navbar";
 import { Footer } from "@/components/sections/Footer";
 import { FadeIn } from "@/components/animations/FadeIn";
@@ -171,7 +171,7 @@ export default function ContactPage() {
                   <div className="bg-ember-orange/10 border border-ember-orange/20 rounded-2xl p-6">
                     <p className="font-body text-sm font-bold text-ember-orange mb-2">Need a Certificate Quickly?</p>
                     <p className="font-body text-sm text-bark mb-3">We issue certificates and additional insured endorsements same-day. Call us directly for fastest service.</p>
-                    <a href={SITE.phoneHref} className="font-body text-sm font-bold text-forest-green hover:text-ember-orange transition-colors">Call {SITE.phone} now →</a>
+                    <a href={SITE.phoneHref} className="font-body text-sm font-bold text-forest-green hover:text-ember-orange transition-colors">Call {SITE.phone} now<ArrowRight className="inline w-4 h-4 ml-1 align-[-2px]" aria-hidden="true" /></a>
                   </div>
                 </FadeIn>
               </div>
